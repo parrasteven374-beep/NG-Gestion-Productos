@@ -8,7 +8,7 @@ Aplicación web desarrollada en Angular para la gestión de un inventario de pro
 * **Creación de productos:** Formulario reactivo que utiliza enlace de datos bidireccional (`ngModel`) para registrar nuevos artículos en el sistema.
 * **Eliminación de productos:** Capacidad de borrar artículos del inventario actualizando la vista en tiempo real.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * **Angular:** Uso de componentes Standalone y la nueva sintaxis de control de flujo (`@for`) para renderizar las listas.
 * **TypeScript:** Tipado estricto mediante el uso de interfaces/modelos (ej. `Producto`).
